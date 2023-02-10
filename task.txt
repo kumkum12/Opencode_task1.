@@ -1,0 +1,49 @@
+1-ANS
+
+Git is a free,open source software distributed version control system designed to maange all source code history.It can keep a history of commits,can reverse changes
+ and lets developers share code. GitHub on the other hand is a web based hosting service for git repositories. it offers all of gits DVCS SCM and has some asdditional
+ features.This includes collaboration functionality like project management,support ticket management and bug tracking
+
+2-ANS
+
+
+5 Git commands are
+1-git config
+usge: git config-global user.name "name"
+usge: git config-global user.email "email address"
+this command sets the author name and email address respectively to be used with your commits
+ 
+2-git init
+usge:git init[repository name]
+this command is used to start a new repository
+
+3-git clone
+
+usge:git clone[url]
+this command is used to obtain a repository from an existing URL
+
+4-git add[file]
+this commands adds a file to the staging area
+
+
+5-git commit
+
+uage:git commit-m "[type in the commit message]"
+
+
+
+3-ANS
+
+1- On GitHub.com, navigate to the main page of the repository.
+2- In the "Branch" menu, choose the branch that contains your commits.
+3- Above the list of files, click  Pull request.
+4- Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you 
+made your changes in.
+5- Type a title and description for your pull request.
+6- To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request,
+ then click Draft Pull Request.
+
+
+
+  
+
